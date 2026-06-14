@@ -43,6 +43,8 @@ Also Including user name osint:
 
 Installation Dependencies:
 
+git clone https://github.com/0xvileness/vileosint.git
+
 pip install requests dnspython pandas phonenumbers reportlab matplotlib networkx pillow beautifulsoup4 fake-useragent
 
 
